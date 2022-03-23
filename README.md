@@ -21,7 +21,7 @@ You will also need to install these fonts:
 Zilla Slab,
 Zilla Slab Highlight,
 Metropolis and
-Inter
+Inter.
 These fonts and their licenses can be located in the _Fonts directory in this repo. Select all the .tff files for each of the fonts, right click, and click on install.
 
 Alternatively, these fonts can be installed from these websites:
