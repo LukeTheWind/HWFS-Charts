@@ -1,7 +1,7 @@
 # HWFS Charts
 
 # Attributing
-Want to include these charts in your project? These charts are licensed under the GPL-3.0 License. The full text can be viewed at LICENSE.txt. Make sure to provide proper attribution in your project!
+Want to include these charts in your project? These charts are licensed under the GPL-3.0 License. The full text can be viewed at [LICENSE.txt](https://github.com/LukeTheWind/HWFS-Charts/blob/main/LICENSE.txt). Make sure to provide proper attribution in your project!
 
 Example attribution: "The HWFS Charts are available at https://github.com/LukeTheWind/HWFS-Charts, and are licensed under the GPL-3.0."
 
@@ -13,7 +13,7 @@ Example attribution: "The HWFS Charts are available at https://github.com/LukeTh
 
 # Requirements
 Inkscape.
-To contribute to these charts, you will need to install a copy of Inkscape, which can be downloaded here.
+To contribute to these charts, you will need to install a copy of Inkscape, which can be downloaded [here](https://inkscape.org/release).
 
 Fonts,
 You will also need to install these fonts:
