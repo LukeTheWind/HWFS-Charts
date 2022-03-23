@@ -1,4 +1,4 @@
-# HWFS-Charts
+# HWFS Charts
 
 # Attributing
 Want to include these charts in your project? These charts are licensed under the GPL-3.0 License. The full text can be viewed at LICENSE.txt. Make sure to provide proper attribution in your project!
