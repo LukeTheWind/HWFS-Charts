@@ -12,7 +12,7 @@ Example attribution: "The HWFS Charts are available at https://github.com/LukeTh
 4. Create a pull request in this repository to merge your changes.
 
 # Requirements
-Inkscape
+Inkscape.
 To contribute to these charts, you will need to install a copy of Inkscape, which can be downloaded here.
 
 Fonts,
