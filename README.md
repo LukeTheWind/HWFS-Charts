@@ -15,12 +15,12 @@ Example attribution: "The HWFS Charts are available at https://github.com/LukeTh
 Inkscape
 To contribute to these charts, you will need to install a copy of Inkscape, which can be downloaded here.
 
-Fonts
+Fonts,
 You will also need to install these fonts:
 
-Zilla Slab
-Zilla Slab Highlight
-Metropolis
+Zilla Slab,
+Zilla Slab Highlight,
+Metropolis and
 Inter
 These fonts and their licenses can be located in the _Fonts directory in this repo. Select all the .tff files for each of the fonts, right click, and click on install.
 
