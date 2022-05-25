@@ -3,7 +3,7 @@
 # Attributing
 Want to include these charts in your project? These charts are licensed under the GPL-3.0 License. The full text can be viewed at [LICENSE.txt](https://github.com/LukeTheWind/HWFS-Charts/blob/main/LICENSE.txt). Make sure to provide proper attribution in your project!
 
-Example attribution: "The LT Charts are available at https://github.com/LukeTheWind/Project-Foxwind-Charts, and are licensed under the GPL-3.0."
+Example attribution: "The LT Charts are available at https://github.com/LukeTheWind/LinuxTransport-Charts, and are licensed under the GPL-3.0."
 
 # Contributing
 1. Fork this repository by clicking "Fork" at the top right
